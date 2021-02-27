@@ -93,3 +93,10 @@ const CALC_DATE = (secs) => {
 };
 
 CALC_DATE(USER_SEC);
+
+// task 7
+
+// 1.Do not have this.
+// 2.Different return
+// 3.Can't be called with new
+// 4.Syntax
